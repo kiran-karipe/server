@@ -1,0 +1,17 @@
+{
+  "user1": {
+    "firstName": "Kiran",
+    "lastName": "Karipe",
+    "DOB": "12-18-1992"
+  },
+  "user2": {
+    "firstName": "Sai",
+    "lastName": "Karipe",
+    "DOB": "12-18-1992"
+  },
+  "user3": {
+    "firstName": "Sai Kiran",
+    "lastName": "Karipe",
+    "DOB": "12-18-1992"
+  }
+}
